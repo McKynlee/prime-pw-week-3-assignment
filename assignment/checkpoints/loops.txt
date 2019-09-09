@@ -8,4 +8,4 @@
 
 # 4 - What is wrong with the argument for this for loop: `for(i = 0; i < array.length; i++)`?
 
-# 5 - What does it mean if you get a console error like this: "Uncaught ReferenceError: i is undefined"?
+# 5 - What does it mean if you get a console error like this: "Uncaught ReferenceError: i is no defined"?
