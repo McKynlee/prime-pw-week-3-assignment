@@ -7,9 +7,10 @@
 # 3 - What kind of loop would you want to use if you wanted to do something as long as a condition were true: for or while?
 
 # 4 - What is wrong with this for loop?
-let array = [1, 2, 3];
-for(i = 0; i < array.length; i++) {
-  console.log('number is', array[i]);
-}
+
+  let favoriteFoods = ['tacos', 'pasta', 'sushi'];
+  for(let i = 0; i < favoriteFoods.length; i++) {
+    console.log('I like to eat', i);
+  }
 
 # 5 - What does it mean if you get a console error like this: "Uncaught ReferenceError: i is not defined"?
