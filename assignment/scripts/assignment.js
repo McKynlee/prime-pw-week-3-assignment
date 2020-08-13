@@ -20,5 +20,5 @@
 
 // 9. Below, rewrite the `for` loop from question 6 to a `for of` loop
 
-// 10. Reassign the value of `myValue` to 3. Then, write a `for` loop that console logs each value in the array, 
-// and if the value of the array at `i` matches the value of 'myValue', also console log 'Hurray!'
+// 10. Reassign `myValue` to 3. Then, loop through your array, logging the value
+//     of each array item. If any item matches `myValue`, then also log "Hurray!"
