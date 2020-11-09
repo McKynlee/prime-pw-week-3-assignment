@@ -58,15 +58,15 @@ console.log('The animals are now', animalArray);
 //       log both the food removed and the updated array
 
 
-// Example: Add an animal to the beginning using Array.shift
-animalArray.shift('walrus');
+// Example: Add an animal to the beginning using Array.unshift
+animalArray.unshift('walrus');
 console.log(`Added an animal to beginning: ${animalArray}`);
 
 // TODO: Add a food at the beginning of the array & log the array
 
 
-// Example: Remove the first animal using Array.unshift
-removedAnimal = animalArray.unshift();
+// Example: Remove the first animal using Array.shift
+removedAnimal = animalArray.shift();
 console.log('Removed the first animal', removedAnimal);
 console.log('The animals are now', animalArray);
 
