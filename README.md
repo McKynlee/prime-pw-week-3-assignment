@@ -47,4 +47,7 @@ This part of the assignment will mix more of the array and loop content with mor
 ## Assignment Submission
 Check in your repo, then turn in your work via the Prime Academy Assignment Application at http://primeacademy.io, as usual and don't hesitate to hit up the Slack channel as needed!
 
+This week has 3 assignments in the Portal for this repo. Turn in this one repo for each of the assignments. (Yes, same repo link to all 3).
+This is so you can receive separate feedback for each section.
+
 **Make sure that you answer this week's discussion question in Slack!**
