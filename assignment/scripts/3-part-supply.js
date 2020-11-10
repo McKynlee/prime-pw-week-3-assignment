@@ -16,7 +16,7 @@ console.log('3. Item at index 2 is:');
 //    array & console.log the value removed.
 console.log('4. Removed item:');
 
-// 5. A delivery of 25 more parts arrived. Add the value 15 to the end of the array
+// 5. A delivery of 25 more parts arrived. Add the value 25 to the end of the array
 console.log('5. Adding 25 to supplyChanges.');
 
 // 6. Write a `for` loop that shows each value in the 'supplyChanges' array
