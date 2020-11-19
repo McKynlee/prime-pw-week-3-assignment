@@ -43,6 +43,9 @@ This part of the assignment will mix more of the array and loop content with mor
 
 > Again, please do not remove the instruction comments. 
 
+## CSS + HTML
+Feel free to write questions in the HTML file!
+Check the CSS file for a small todo!
 
 ## Assignment Submission
 Check in your repo, then turn in your work via the Prime Academy Assignment Application at http://primeacademy.io, as usual and don't hesitate to hit up the Slack channel as needed!
